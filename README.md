@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Alfiansyah, <br> but you can call me Alfian.</h1>
-<h3 align="center">A passionate frontend developer, web developer, & web designer from Indonesia</h3>
+<h3 align="center">I'm a creative and detail-oriented frontend developer with a passion for building sleek, responsive, and user-friendly web interfaces from Indonesia. I enjoy turning complex problems into clean, intuitive solutions bringing designs to life with code. With a solid grasp of modern frontend tech and a touch of design flair, I aim to craft experiences that not only function well, but feel good to use.</h3>
 
 - 📫 How to reach me **muhammad.alfiansyah2805@gmail.com**
 
