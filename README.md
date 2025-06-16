@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, i'm YaXioz but you can call me Alfian👋</h1>
-- 📫 How to reach me **muhammad.alfiansyah2805@gmail.com**
+
 ###
 
 <div align="center">
