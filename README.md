@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">My name is Alfian and i'm from Indonesia. <br>I'm a undegraduate student majoring Information System. <br>I have passionate about Web Developmnet, Web Design, and IT Governance<br><br>- 🔭 I’m working as Frontend Web Develpoper & Web Designer<br>- 📚 I'm currently learning about Laravel & Full Stack Development</p>
+<p align="center">My name is Alfian and i'm from Indonesia. <br>I'm a undegraduate student majoring Information System. <br>I have passionate about Web Development, Web Design, and IT Governance<br><br>- 🔭 I’m working as Frontend Web Develpoper & Web Designer<br>- 📚 I'm currently learning about Laravel & Full Stack Development</p>
 
 ###
 
